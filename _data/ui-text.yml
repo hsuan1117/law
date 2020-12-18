@@ -446,8 +446,8 @@ zh-TW: &DEFAULT_ZH_HANT
   minute_read                : "分鐘閱讀"
   share_on_label             : "分享到"
   meta_label                 :
-  tags_label                 : "標籤:"
-  categories_label           : "分類:"
+  tags_label                 : "學校:"
+  categories_label           : "法條:"
   date_label                 : "更新時間:"
   comments_label             : "留言"
   comments_title             : "留言內容"
