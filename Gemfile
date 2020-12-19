@@ -13,6 +13,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  jekyll-pdf-embed
+  gem "jekyll-pdf-embed"
   gem "jekyll-algolia"
 end
